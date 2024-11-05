@@ -23,3 +23,9 @@ A simple and intuitive Todo List application built with React Native. This app a
 
 ## Resources
  [Codemancers](https://www.codemancers.com/blog/2024-07-08-react-to-native-mobile-app-capacitor-js/)
+
+## IOS setup ig? send me the apk or the equivalent if anyone did it
+
+- setup my project on a mac with Xcode installed
+- read the codemancers resourse above and instead of adding android add ios
+- done!
